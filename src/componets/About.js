@@ -26,7 +26,7 @@ export default function About() {
 
   if (!author) return <div>Loading...</div>;
   return (
-    <main className='relative bg-green-100  '>
+    <main className='bg-green-100 min-h-screen p-12 '>
       <div className='p-12  lg:pt-48 container mx-auto relative '>
         <section className=' bg-green-800 rounded-lg shadow-2xl lg:flex px-10 py-10 mb-20 '>
           <img
