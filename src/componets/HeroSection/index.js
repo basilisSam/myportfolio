@@ -1,5 +1,5 @@
 import React from "react";
-import Video from "../../video.mp4";
+import Video from "../../Sunset.mp4";
 import {
   HeroContainer,
   HeroBg,
@@ -16,8 +16,8 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Aloha This is Sam WebSite.</HeroH1>
-        <HeroP>Sam is a coder that love travelling and Extreme Sports</HeroP>
+        <HeroH1>Aloha 🤙</HeroH1>
+        <HeroP>This is Sam WebSite</HeroP>
       </HeroContent>
     </HeroContainer>
   );

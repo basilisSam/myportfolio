@@ -17,8 +17,8 @@ export default {
       type: "string",
     },
     {
-      name: "descriptiom",
-      type: "text",
+      name: "description",
+      type: "blockContent",
     },
     {
       name: "projectType",

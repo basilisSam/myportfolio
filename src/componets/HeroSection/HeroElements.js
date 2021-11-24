@@ -38,11 +38,13 @@ export const HeroContent = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 41%;
 `;
 
 export const HeroH1 = styled.h1`
-  color: #fff;
+  color: #80ffdb;
   font-size: 48px;
+  font-family: fantasy;
   text-align: center;
 
   @media screen and (max-width: 768px) {
@@ -54,11 +56,12 @@ export const HeroH1 = styled.h1`
   }
 `;
 export const HeroP = styled.p`
-  magin-top: 24;
-  color: #fff;
-  font-size: 24px;
+  margin-top: 24;
+  color: #ff66c4;
+  font-size: 25px;
   text-align: center;
   max-width: 600px;
+  font-family: fantasy;
 
   @media screen and (max-width: 768px) {
     font-size: 24 px;
