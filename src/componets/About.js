@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import sanityClient from "../client.js";
-import thinkbig from "../thinkBig.jpg";
+import sanityClient from "../Client.js";
 import imageUrlBuilder from "@sanity/image-url";
 import BlockContent from "@sanity/block-content-to-react";
 
