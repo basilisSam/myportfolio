@@ -38,7 +38,7 @@ export const HeroContent = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 50%;
+  margin-bottom: 36%;
 `;
 
 export const HeroH1 = styled.h1`
