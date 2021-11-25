@@ -40,7 +40,7 @@ export default function NavBar() {
         </nav>
         <div className='inflex-flex  py-3 px-3 my-6'>
           <SocialIcon
-            url='https://www.linkedin.com/in/vasilis-samoladas-a59161226/'
+            url='https://www.linkedin.com/in/vasilis-samoladas/'
             className='mr-4'
             target='_blank'
             fgColor='#fff'
