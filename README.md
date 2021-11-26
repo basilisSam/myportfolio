@@ -1,4 +1,4 @@
-# myportfolio[![Netlify Status](https://api.netlify.com/api/v1/badges/815767d8-b81e-4ac8-9780-0d4cc6e5eeff/deploy-status)](https://app.netlify.com/sites/vasilissam/deploys) 
+# myportfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/815767d8-b81e-4ac8-9780-0d4cc6e5eeff/deploy-status)](https://app.netlify.com/sites/vasilissam/deploys) 
 
 A full functional portfolio that you can update your blog posts and your projects using UI provided by Sanity.io.
 
